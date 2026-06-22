@@ -12,3 +12,5 @@ Press 1 in order to select the tool in the first slot of the hotbar. Press 2 in 
 
 Click on the broken spaceship to reveal the quantity of materials required to repair the spaceship and escape the black hole.
 
+To play the game, go to this link: https://bosshi2.itch.io/the-lost-astronaut
+- You must play in full screen. Does not support mobile
