@@ -1,6 +1,6 @@
 # The-Lost-Astronaut
 ## Note
-We did not realize that we needed to create a GitHub Repository and regularly push changes until Sunday night. To prove we didn't cheat, I uploaded a handful of videos I sent to Ziyuan over the course of the Game Jam that documented my progress. These videos are in the file called "Evidence"
+We did not realize that we needed to create a GitHub Repository and regularly push changes until Sunday night. To prove we didn't cheat, I uploaded a handful of videos I sent to Ziyuan over the course of the Game Jam that documented my progress. These videos are in the file called "Evidence For game jam"
 ## Instructions
 Use arrow keys or WASD to move.
 
