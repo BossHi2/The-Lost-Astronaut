@@ -166,7 +166,7 @@ public class MainCharacter : MonoBehaviour
             timeBetweenHealthRegen = 0f;
             regenerateTimer += Time.deltaTime;
 
-            if(regenerateTimer >= 3f) //3 seconds without combat to start regenerating
+            if(regenerateTimer >= 5f) //5 seconds without combat to start regenerating
             {
                 canRegenerate = true;
             }
