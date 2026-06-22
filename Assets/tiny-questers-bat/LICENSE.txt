@@ -1,0 +1,83 @@
+================================================================
+  LICENSE
+  Tiny Questers — Monster Starter Pack  (from
+  "Tiny Questers — Complete Pixel RPG Asset Pack")
+  (c) Bobddadoo — https://bobddadoo.itch.io
+================================================================
+
+Copyright (c) Bobddadoo. All rights reserved.
+
+This license governs the pixel-art sprites, animations, and any
+other assets contained in this download (collectively, "the
+Assets"). By purchasing and/or downloading the Assets you agree
+to the terms below.
+
+
+----------------------------------------------------------------
+  YOU ARE ALLOWED TO:
+----------------------------------------------------------------
+
+  [OK]  Use the Assets in your own personal projects.
+  [OK]  Use the Assets in your own commercial projects (games,
+        apps, videos, streams, etc.), with no per-title fee and
+        no royalties.
+  [OK]  Use the Assets in an unlimited number of your own
+        projects, once purchased.
+  [OK]  Modify, edit, recolor, remix, and extend the Assets
+        to fit your project.
+  [OK]  Include the Assets, modified or unmodified, as part
+        of a finished game or product that you distribute or
+        sell — provided the Assets are not the primary thing
+        being sold (see restrictions below).
+  [OK]  Credit is appreciated but not required. If you would
+        like to credit, please use:
+            "Pixel art by Bobddadoo
+             https://bobddadoo.itch.io"
+
+
+----------------------------------------------------------------
+  YOU ARE NOT ALLOWED TO:
+----------------------------------------------------------------
+
+  [NO]  Resell, share, or redistribute the Assets on their own
+        (e.g. as a sprite pack, asset bundle, NFT, or stock-art
+        listing), whether modified or unmodified.
+  [NO]  Re-upload or distribute the purchased files for free or
+        for sale to anyone else; the purchase is for your use.
+  [NO]  Include the Assets in any asset pack, template, or
+        compilation that is sold or given away as art assets.
+  [NO]  Sub-license the Assets to third parties.
+  [NO]  Claim authorship of the original Assets.
+  [NO]  Use the Assets, in whole or in part, as training data
+        or input for AI / machine-learning models, including
+        generative-art models, fine-tuning datasets, LoRAs,
+        embeddings, or any similar system.
+
+
+----------------------------------------------------------------
+  IN PLAIN ENGLISH
+----------------------------------------------------------------
+
+  You bought it, so use these sprites in as many of your own
+  games as you like — personal or commercial, no extra fees.
+  Just don't re-share or resell the art itself, and don't feed
+  it to AI training pipelines.
+
+
+----------------------------------------------------------------
+  NO WARRANTY
+----------------------------------------------------------------
+
+  THE ASSETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+  KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+  WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+  PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR
+  BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+  FROM, OUT OF, OR IN CONNECTION WITH THE ASSETS OR THE USE OR
+  OTHER DEALINGS IN THE ASSETS.
+
+
+================================================================
+  Questions? Leave a comment on the itch.io page.
+  https://bobddadoo.itch.io
+================================================================

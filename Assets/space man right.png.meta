@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: 8f384b9cdb5464ad1807b5cda53393d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6818799751086349210
+    second: space man right_0
+  - first:
+      213: 1935470091378610395
+    second: space man right_1
+  - first:
+      213: -1104894021755820604
+    second: space man right_2
+  - first:
+      213: -8073300126430752117
+    second: space man right_3
+  - first:
+      213: 4467606081068494977
+    second: space man right_4
+  - first:
+      213: 7902270329932209845
+    second: space man right_5
+  - first:
+      213: -2780245112415669937
+    second: space man right_6
+  - first:
+      213: 6763397237034040089
+    second: space man right_7
+  - first:
+      213: -5932308171652577170
+    second: space man right_8
+  - first:
+      213: 1989106628719366136
+    second: space man right_9
+  - first:
+      213: -7303819898908389416
+    second: space man right_10
+  - first:
+      213: 3313927750362289592
+    second: space man right_11
+  - first:
+      213: -536603133458585092
+    second: space man right_12
+  - first:
+      213: -4590228564635181103
+    second: space man right_13
+  - first:
+      213: 5526156317629183537
+    second: space man right_14
+  - first:
+      213: -1368359727670814033
+    second: space man right_15
+  - first:
+      213: 7433160714007431583
+    second: space man right_16
+  - first:
+      213: 1113993063561806847
+    second: space man right_17
+  - first:
+      213: -8398870217293772947
+    second: space man right_18
+  - first:
+      213: 8099401790958604503
+    second: space man right_19
+  - first:
+      213: 3714366254971935874
+    second: space man right_20
+  - first:
+      213: -266564434607857767
+    second: space man right_21
+  - first:
+      213: 4711980223022375608
+    second: space man right_22
+  - first:
+      213: 4334853790900416694
+    second: space man right_23
+  - first:
+      213: 8139470830275868568
+    second: space man right_24
+  - first:
+      213: 8299403535354508274
+    second: space man right_25
+  - first:
+      213: -6481932084677797831
+    second: space man right_26
+  - first:
+      213: 7874030313219754260
+    second: space man right_27
+  - first:
+      213: 4727967842386496740
+    second: space man right_28
+  - first:
+      213: -4276269308492552876
+    second: space man right_29
+  - first:
+      213: -3273897723686392415
+    second: space man right_30
+  - first:
+      213: 587576078087105378
+    second: space man right_31
+  - first:
+      213: 3277136340451243370
+    second: space man right_32
+  - first:
+      213: 1301650747926161724
+    second: space man right_33
+  - first:
+      213: 4435800536771501294
+    second: space man right_34
+  - first:
+      213: 2299793029927345375
+    second: space man right_35
+  - first:
+      213: -6740125942454647796
+    second: space man right_36
+  - first:
+      213: -7777598767249872514
+    second: space man right_37
+  - first:
+      213: 5599570237601601042
+    second: space man right_38
+  - first:
+      213: 9144571044889336066
+    second: space man right_39
+  - first:
+      213: 6907628170727212746
+    second: space man right_40
+  - first:
+      213: 1237201889034441607
+    second: space man right_41
+  - first:
+      213: -8873103992860657397
+    second: space man right_42
+  - first:
+      213: 3256627693198081368
+    second: space man right_43
+  - first:
+      213: -6023608201306590677
+    second: space man right_44
+  - first:
+      213: -5759436490148895549
+    second: space man right_45
+  - first:
+      213: 8466676647501318924
+    second: space man right_46
+  - first:
+      213: -4295170452451404592
+    second: space man right_47
+  - first:
+      213: -3565323911628012854
+    second: space man right_48
+  - first:
+      213: 7016307450384512539
+    second: space man right_49
+  - first:
+      213: -5300333981418669095
+    second: space man right_50
+  - first:
+      213: 861378339639376269
+    second: space man right_51
+  - first:
+      213: 4725081725110419741
+    second: space man right_52
+  - first:
+      213: 4057651986513320945
+    second: space man right_53
+  - first:
+      213: 5929426489933629017
+    second: space man right_54
+  - first:
+      213: 3850510404466145405
+    second: space man right_55
+  - first:
+      213: 6237734403928435775
+    second: space man right_56
+  - first:
+      213: -666296004692425447
+    second: space man right_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: space man right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 1020
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664e9f101c1ce51a0800000000000000
+      internalID: -6818799751086349210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space man right_1
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3000
+        width: 1020
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0d3062bcb2cda10800000000000000
+      internalID: 1935470091378610395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space man right_2
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3000
+        width: 1020
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5aacebdb0aaa0f0800000000000000
+      internalID: -1104894021755820604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space man right_3
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3000
+        width: 1020
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b829af62f40e5ff80800000000000000
+      internalID: -8073300126430752117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space man right_4
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 3000
+        width: 1020
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18076727f00200e30800000000000000
+      internalID: 4467606081068494977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space man right_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 1020
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bed7be3ff08aad60800000000000000
+      internalID: 7902270329932209845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space man right_6
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1500
+        width: 1020
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41b2f5fcc59a69d0800000000000000
+      internalID: -2780245112415669937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space man right_7
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1500
+        width: 1020
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bb54cf3f96cdd50800000000000000
+      internalID: 6763397237034040089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space man right_8
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1500
+        width: 1020
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68408a06253cada0800000000000000
+      internalID: -5932308171652577170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space man right_9
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 1500
+        width: 1020
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff4139a0f9ba9b10800000000000000
+      internalID: 1989106628719366136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space man right_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1020
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfc22ecf7e93aa90800000000000000
+      internalID: -7303819898908389416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space man right_11
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 1020
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b557a32bbf6dfd20800000000000000
+      internalID: 3313927750362289592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space man right_12
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 1020
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9e6dc0b4a9d88f0800000000000000
+      internalID: -536603133458585092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space man right_13
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 0
+        width: 1020
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df9117c07b3c40c0800000000000000
+      internalID: -4590228564635181103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space man right_14
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 0
+        width: 1020
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136719d54e9d0bc40800000000000000
+      internalID: 5526156317629183537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6a6632967a21f4067829b4e661284688
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":3.0},"gridSpriteSize":{"x":1020.0,"y":1500.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      space man right_0: -6818799751086349210
+      space man right_1: 1935470091378610395
+      space man right_10: -7303819898908389416
+      space man right_11: 3313927750362289592
+      space man right_12: -536603133458585092
+      space man right_13: -4590228564635181103
+      space man right_14: 5526156317629183537
+      space man right_2: -1104894021755820604
+      space man right_3: -8073300126430752117
+      space man right_4: 4467606081068494977
+      space man right_5: 7902270329932209845
+      space man right_6: -2780245112415669937
+      space man right_7: 6763397237034040089
+      space man right_8: -5932308171652577170
+      space man right_9: 1989106628719366136
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
