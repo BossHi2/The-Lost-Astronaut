@@ -59,7 +59,8 @@ public class MainCharacter : MonoBehaviour
     [SerializeField] private cursorController cursorCont;
 
     bool isHeartBeating;
-    bool hasStartedDeathSequence;
+    public bool hasStartedDeathSequence;
+
 
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -147,7 +148,7 @@ public class MainCharacter : MonoBehaviour
 
         if (canRegenerate && !cursorCont.isUIEnabled)
         {
-            if(timeBetweenHealthRegen >= 3f) //3 seconds between health gain
+            if(timeBetweenHealthRegen >= 1f) //1 second between health gain
             {
                 if(health <= 19)
                 {
@@ -165,7 +166,7 @@ public class MainCharacter : MonoBehaviour
             timeBetweenHealthRegen = 0f;
             regenerateTimer += Time.deltaTime;
 
-            if(regenerateTimer >= 5f) //5 seconds without combat to start regenerating
+            if(regenerateTimer >= 3f) //3 seconds without combat to start regenerating
             {
                 canRegenerate = true;
             }
@@ -212,20 +213,21 @@ public class MainCharacter : MonoBehaviour
             isHeartBeating = false;
 
             if(heartbeatMusic.volume != 0f)
+            {
                 StartCoroutine(stopHeartBeat());
+            }
+                
         }
     }
-    IEnumerator dead()
+    public IEnumerator dead()
     {
         anim.SetTrigger("die");
         bgMusic.Stop();
-        bgMusic.clip = deadSound;
-        bgMusic.volume = 1f;
-        bgMusic.Play();
+        AudioSource.PlayClipAtPoint(deadSound, Camera.main.transform.position, .5f);
         heartbeatMusic.volume = 0f;
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(4f);
         Time.timeScale = 0;
-        yield return new WaitForSecondsRealtime(2f);
+        yield return new WaitForSecondsRealtime(1f);
         Time.timeScale = 1;
         SceneManager.LoadScene("StartScene");
     }

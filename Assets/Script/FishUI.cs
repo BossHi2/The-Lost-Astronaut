@@ -13,6 +13,7 @@ public class FishUI : MonoBehaviour
     [SerializeField] private Image background;
     [SerializeField] private Sprite woodSprite;
     [SerializeField] private Sprite metalSprite;
+    [SerializeField] private PlayerStats playerStats;
 
     
 
@@ -142,11 +143,13 @@ public class FishUI : MonoBehaviour
 
         if(rand == 1)
         {
+            playerStats.woodCaught++;
             mainUI.newNotif("Wood");
             mainUI.changeWood(1);
         }
         if(rand == 2)
         {
+            playerStats.metalCaught++;
             mainUI.newNotif("Metal");
             mainUI.changeMetal(1);
         }

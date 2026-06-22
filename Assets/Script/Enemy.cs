@@ -43,10 +43,12 @@ public class Enemy : MonoBehaviour
     
 
     private brokenSpaceship brokenShip;
+    private PlayerStats playerStats;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        playerStats = GameObject.Find("PlayerStats").GetComponent<PlayerStats>();
         currCooldownTimer = 0f;
         canAttack = true;
         hasActivatedDeathSequence = false;
@@ -104,6 +106,7 @@ public class Enemy : MonoBehaviour
         anim.SetFloat("moveY", GetComponent<NavMeshAgent>().velocity.y);
         if(health <= 0 && (hasActivatedDeathSequence == false) )
         {
+            playerStats.enemiesKilled++;
             hasActivatedDeathSequence = true;
             mainChar.GetComponent<MainCharacter>().audioSource.PlayOneShot(enemyDieSound, 0.5f);
             GetComponent<NavMeshAgent>().isStopped = true;

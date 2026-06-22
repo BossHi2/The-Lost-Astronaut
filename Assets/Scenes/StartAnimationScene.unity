@@ -11915,7 +11915,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: But one morning, you got pulled into a giant black hole...
+  m_text: Even worse, you find out that you only have 20 minutes of oxygen...
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: bc502d48727744640af2e128448b9584, type: 2}
   m_sharedMaterial: {fileID: -8988825730297268634, guid: bc502d48727744640af2e128448b9584, type: 2}

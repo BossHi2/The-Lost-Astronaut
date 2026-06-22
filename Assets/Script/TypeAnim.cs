@@ -10,6 +10,7 @@ public class TypeAnim : MonoBehaviour
     string text1;
     string text2;
     string text4;
+    string text5;
     [SerializeField] private TextMeshProUGUI loreText;
     [SerializeField] private PlayableDirector spaceshipDirector;
     [SerializeField] private PlayableDirector bgDirector;
@@ -30,7 +31,8 @@ public class TypeAnim : MonoBehaviour
         currTextNum = 1;
         text1 = "You are a scientist who has been sent to explore the galaxy.";
         text2 = "But one morning, you got pulled into a giant black hole...";
-        text4 = "You must escape the black hole before it's too late!";
+        text4 = "Even worse, you find out that you only have 20 minutes of oxygen...";
+        text5 = "Escape the black hole before it's too late!";
         audioSource.Play();
         currCoroutine = StartCoroutine(typeText(text1));
     }
@@ -80,22 +82,37 @@ public class TypeAnim : MonoBehaviour
                 }
                 else
                 {
-                    hasStartedFade = true;
                     audioSource.Pause();
                     StopCoroutine(currCoroutine);
                     currCoroutine = null;
                     loreText.text = text4;
+                    currTextNum++;
+                }
+            } else if(currTextNum == 5)
+            {
+                if(currCoroutine == null)
+                {
+                    audioSource.Play();
+                    currCoroutine = StartCoroutine(typeText(text5));
+                }
+                else
+                {
+                    hasStartedFade = true;
+                    audioSource.Pause();
+                    StopCoroutine(currCoroutine);
+                    currCoroutine = null;
+                    loreText.text = text5;
                     StartCoroutine(Fade());
                     currTextNum++;
                 }
             }
 
-            if(currTextNum == 5 && !hasStartedFade)
+            if(currTextNum == 6 && !hasStartedFade)
             {
                 hasStartedFade = true;
                 audioSource.Pause();
                 currCoroutine = null;
-                loreText.text = text4;
+                loreText.text = text5;
                 StartCoroutine(Fade());
                 currTextNum++;
             }
